@@ -1,7 +1,7 @@
 {
   "name": "dropdown_menu",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a custom dropdown component for The Odin Project 'Dynamic User Interfaces' mini project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
