@@ -41,6 +41,5 @@ body {
 }
 
 .dropdown-item:hover {
-  background-color: #0066ff;
-  color: #ffffff;
+  background-color: #f4f4f4;
 }
