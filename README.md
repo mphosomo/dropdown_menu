@@ -1,6 +1,6 @@
 # Simple Dropdown
 
-A simple, zero-dependency JavaScript module to easily initialize dropdowns. Built with HTML, CSS, and JavaScript, this package provides basic styling to simplify the setup process.
+A simple, zero-dependency JavaScript module to easily initialize dropdowns. Built with HTML, CSS, and JavaScript, this package provides basic styling and functionality to simplify the setup process.
 
 ## ✨ Features
 
@@ -22,7 +22,7 @@ npm install @mphosomo/simple_dropdown
 
 To use the dropdown component, copy the following HTML structure(including class and id names):
 
-- Note: If you aren't using a bunder (e.g. Webpack), in the within the `<body></body>` tag, add the folloring:
+- Note: If you aren't using a bunder (e.g. Webpack), in the `<body></body>` tag of your HTML, add the following:
 
 ```
 <link rel="stylesheet" href="./node_modules/@mphosomo/simple_dropdown/style.css"/>
