@@ -1,11 +1,11 @@
 # Simple Dropdown
 
-A simple, zero-dependency JavaScript module to easily initialize dropdowns. Built with HTML, CSS, and JavaScript, this package provides basic styling and functionality to simplify the setup process.
+A simple, zero-dependency JavaScript module to easily initialize dropdowns. The package only works with bundler as it utulizes ES modules. Built with HTML, CSS, and JavaScript, this package provides basic styling and functionality to simplify the setup process.
 
 ## ✨ Features
 
 - Tiny and framework-agnostic.
-- No dependencies or bundler needed.
+- No dependencies needed.
 - Works with buttons, links, divs—anything!
 
 ## 🚀 Installation
