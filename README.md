@@ -13,7 +13,7 @@ A simple, zero-dependency JavaScript module to easily initialize dropdowns. Buil
 To install using npm:
 
 ```bash
-npm install simple-dropdown
+npm install @mphosomo/simple_dropdown
 ```
 
 ## 🔧 Usage
