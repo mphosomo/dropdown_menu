@@ -26,9 +26,9 @@ To use the dropdown component, copy the following HTML structure(including class
 
 - Note: If you aren't using a bunder (e.g. Webpack), in the within the `<body></body>` tag, add the folloring:
   `<link
-		rel="stylesheet"
-		href="./node_modules/@mphosomo/simple_dropdown/style.css"
-	/>`
+	rel="stylesheet"
+	href="./node_modules/@mphosomo/simple_dropdown/style.css"
+/>`
 
 Dropdown Structure:
 
