@@ -8,12 +8,12 @@
     "url": "https://github.com/mphosomo/dropdown_menu"
   },
   "main": "./index.js",
-  "style": "./styles.css",
+  "style": "./style.css",
   "type": "module",
   "exports": {
     ".": {
       "import": "./index.js",
-      "style": "./styles.css",
+      "style": "./style.css",
       "types": "./index.d.ts"
     }
   },
