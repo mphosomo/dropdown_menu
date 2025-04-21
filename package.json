@@ -5,7 +5,7 @@
   "author": "Mpho Somo",
   "repository": {
     "type": "github",
-    "url": "https://github.com/mphosomo/dropdown_menu"
+    "url": "git+https://github.com/mphosomo/dropdown_menu.git"
   },
   "main": "index.js",
   "keywords": [
