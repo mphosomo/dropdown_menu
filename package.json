@@ -1,17 +1,19 @@
 {
   "name": "@mphosomo/simple_dropdown",
   "description": "A simple, zero-dependency JavaScript module to easily initialize dropdowns. Built with HTML, CSS, and JavaScript, this package provides basic styling to simplify the setup process.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Mpho Somo",
   "repository": {
     "type": "git",
     "url": "https://github.com/mphosomo/dropdown_menu"
   },
   "main": "./index.js",
+  "style": "./styles.css",
   "type": "module",
   "exports": {
     ".": {
       "import": "./index.js",
+      "style": "./styles.css",
       "types": "./index.d.ts"
     }
   },

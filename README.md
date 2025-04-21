@@ -22,14 +22,6 @@ npm install @mphosomo/simple_dropdown
 
 To use the dropdown component, copy the following HTML structure(including class and id names):
 
-- Note: If you aren't using a bunder (e.g. Webpack), in the `<body></body>` tag of your HTML, add the following:
-
-```HTML
-<link rel="stylesheet" href="./node_modules/@mphosomo/simple_dropdown/style.css"/>
-```
-
-Dropdown Structure:
-
 ```HTML
     <div class="dropdown-container">
         <button type="button" id="dropdown-trigger">Trigger Dropdown</button>
@@ -49,8 +41,6 @@ Import the initializeDropdown function to use it in your project: (Pay attention
 
 ```js
 import { initializeDropdown } from "@mphosomo/simple_dropdown";
-
-// If you are using a bundler (e.g. Webpack), you should also import the css in your .js file:
 import "@mphosomo/simple_dropdown/style.css";
 
 // To see if it works:
