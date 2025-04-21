@@ -1,7 +1,7 @@
 {
   "name": "@mphosomo/simple_dropdown",
   "description": "A simple, zero-dependency JavaScript module to easily initialize dropdowns. Built with HTML, CSS, and JavaScript, this package provides basic styling to simplify the setup process.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Mpho Somo",
   "repository": {
     "type": "github",
@@ -10,6 +10,9 @@
   "main": "index.js",
   "publishConfig": {
     "access": "public"
+  },
+  "exports": {
+    ".": "./index.js"
   },
   "keywords": [
     "dropdown",
@@ -29,5 +32,8 @@
     "eslint": "^9.25.0",
     "globals": "^16.0.0",
     "prettier": "3.5.3"
+  },
+  "dependencies": {
+    "@mphosomo/simple_dropdown": "^1.0.0"
   }
 }
