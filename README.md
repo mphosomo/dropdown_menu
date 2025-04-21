@@ -1,7 +1,5 @@
 # Simple Dropdown
 
----
-
 A simple, zero-dependency JavaScript module to easily initialize dropdowns. Built with HTML, CSS, and JavaScript, this package provides basic styling to simplify the setup process.
 
 ## ✨ Features
@@ -47,7 +45,7 @@ Dropdown Structure:
 
 ##### JavaScript
 
-Import the dropdown CSS and the initializeDropdown function to use it in your project:
+Import the initializeDropdown function to use it in your project: (Pay attention to comments)
 
 ```
 import { initializeDropdown } from '@mphosomo/simple_dropdown'
